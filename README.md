@@ -2,7 +2,15 @@
 <img src="https://github.com/sarahadean/sarahadean/assets/128323898/e8d58324-b531-4f1c-a192-d773b8d434fb"/>
 
 
-- 👋 Hi, I’m @sarahadean, a Software Engineer
+## 👋 **About Me**
+
+### 💼 **Professional Background**
+
+### 🚀 **Transition to Software Engineering**
+
+### 🎓 **Education and Skills**
+
+### 🔥 **Passion and Collaboration**
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)

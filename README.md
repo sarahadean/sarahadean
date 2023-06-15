@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @sarahadean, a Software Engineer
 
+
+
+
 Github Stats:
 ### 📊 **GitHub Stats**
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarahadean&theme=tokyonight)]
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahadean&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarahadean&theme=github_dark)

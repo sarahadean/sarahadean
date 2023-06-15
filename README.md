@@ -3,7 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
 
-Github Stats:
 ### 📊 **GitHub Stats**
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahadean&show_icons=true&theme=shadow_blue" alt="sarahadean" /></p>

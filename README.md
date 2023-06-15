@@ -5,12 +5,13 @@
 
 Github Stats:
 ### 📊 **GitHub Stats**
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarahadean&theme=tokyonight)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahadean&show_icons=true&theme=radical" alt="sarahadean" /></p>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sarahadean&theme=tokyonight)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats-sarahadean.vercel.app/api?username=sarahadean&theme=tokyonight" alt="sarahadean" /></p>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=tokyonight" />
-
-<img src="https://www.codewars.com/users/sarahadean/badges/large" />
+<img src="https://www.codewars.com/users/sarahadean/badges/large" /> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahadean&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarahadean&theme=github_dark)

@@ -1,5 +1,5 @@
 <!-- ![White and Back Creative Marketing Agency Name Facebook Cover] -->
-<img src="https://github.com/sarahadean/sarahadean/assets/128323898/6cfa3771-b56b-46ef-95a0-5cedf077b7a4"/>
+<img src="https://github.com/sarahadean/sarahadean/assets/128323898/e8d58324-b531-4f1c-a192-d773b8d434fb"/>
 
 
 - 👋 Hi, I’m @sarahadean, a Software Engineer

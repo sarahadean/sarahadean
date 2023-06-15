@@ -1,17 +1,13 @@
 - 👋 Hi, I’m @sarahadean, a Software Engineer
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
 
 Github Stats:
 ### 📊 **GitHub Stats**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahadean&show_icons=true&theme=shadow_blue" alt="sarahadean" /></p>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=sarahadean&theme=tokyonight)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-stats-sarahadean.vercel.app/api?username=sarahadean&theme=tokyonight" alt="sarahadean" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=tokyonight" />
-<img src="https://www.codewars.com/users/sarahadean/badges/large" /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=donut)](https://github.com/sarahadean/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahadean&theme=shadow_blue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarahadean&theme=github_dark)

@@ -19,7 +19,7 @@
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarahadean&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- - 👀 I’m interested in '' -->
-- 🌱 I’m currently learning Python and SQL
+<!-- - 🌱 I’m currently learning Python and SQL -->
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 

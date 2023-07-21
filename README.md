@@ -1,9 +1,10 @@
 <!-- ![White and Back Creative Marketing Agency Name Facebook Cover] -->
 <img src="https://github.com/sarahadean/sarahadean/assets/128323898/e8d58324-b531-4f1c-a192-d773b8d434fb"/>
 
+#Connect with me
 
 
-# **Projects**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

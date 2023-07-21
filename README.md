@@ -3,14 +3,70 @@
 
 
 
-| Project       | Description                                                                                                                                           | Tech Stack                                                                                          | Features                                                                                                                                               | Repo                                                | Demo |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------|
-| MamaMatch     | Social media app for mothers to connect with other mothers in their area. Request to be friends, accept or deny requests and  chat with new friends.  | - React - React Router v6 - Flask - Flask RESTful - Flask Login - SQLAlchemy - Python - Material UI | - Self-referential  many to many relationship - User creates and updates a profile - Send and accept friend  requests - Chat with friends - Custom API | <a href="https://github.com/sarahadean/capstone">Repo</a>            |      |
-| HappyTrails   | Explore and search for trails in Utah.  View reviews for trains and add reviews for  trails you've hiked.                                             | - React - Flask - SQLAlchemy - Python - Material UI                                                 | - User sign-in and profile - View other User profiles - Search for specific hiking  trails - View and create reviews for  trails user has hiked        | <a href="https://github.com/rachelsteiner91/HappyTrails">Repo</a>     |      |
-| Bark 'n Brush | Dog grooming scheduling assistance.                                                                                                                   | - Python - SQLAlchemy                                                                               | - CLI interface - Choose from menu of services - Create, update and cancel appointments                                                                | <a href="https://github.com/sarahadean/bark_n_brush_project">Repo</a>  |      |
-| PassportPal   | Your virtual passport! "Stamp" your passport by marking different countries as "Visited". Write a memory and add a photo from your trip.              | - React - React Router v6 - React-Bootstrap - HTML + CSS                                            | - Full CRUD functionality                                                                                                                              | <a href="https://github.com/sarahadean/PassportPal">Repo</a>           |      |
-| OnlyPrince    | Website dedicated to Prince. View album art and make your own custom Prince playlist.                                                                 | - Vanilla JavaScript - HTML - CSS                                                                   | - Full CRUD functionality - Custom API - Rate individual songs - Create custom playlist - View front and back album art                                | <a href="https://github.com/sarahadean/Prince_Albums_Project">Repo</a> |      |
---- 
+### **Projects**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Project</th>
+    <th class="tg-0pky">Description</th>
+    <th class="tg-0pky">Tech Stack</th>
+    <th class="tg-0pky">Features</th>
+    <th class="tg-0pky">Repo</th>
+    <th class="tg-0pky">Demo</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">MamaMatch</td>
+    <td class="tg-0pky">Social media app for mothers to connect<br>with other mothers in their area. Request<br>to be friends, accept or deny requests and <br>chat with new friends. </td>
+    <td class="tg-0pky">- React<br>- React Router v6<br>- Flask<br>- Flask RESTful<br>- Flask Login<br>- SQLAlchemy<br>- Python<br>- Material UI</td>
+    <td class="tg-0pky">- Self-referential <br>many to many relationship<br>- User creates and<br>updates a profile<br>- Send and accept friend <br>requests<br>- Chat with friends<br>- Custom API</td>
+    <td class="tg-0pky"><a href="https://github.com/sarahadean/capstone" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">HappyTrails</td>
+    <td class="tg-0pky">Explore and search for trails in Utah. <br>View reviews for trains and add reviews for <br>trails you've hiked. </td>
+    <td class="tg-0pky">- React<br>- Flask<br>- SQLAlchemy<br>- Python<br>- Material UI</td>
+    <td class="tg-0pky">- User sign-in and profile<br>- View other User profiles<br>- Search for specific hiking <br>trails<br>- View and create reviews for <br>trails user has hiked</td>
+    <td class="tg-0pky"><a href="https://github.com/rachelsteiner91/HappyTrails" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bark 'n Brush</td>
+    <td class="tg-0pky">Dog grooming scheduling assistance. </td>
+    <td class="tg-0pky">- Python<br>- SQLAlchemy</td>
+    <td class="tg-0pky">- CLI interface<br>- Choose from menu of services<br>- Create, update and cancel<br>appointments<br></td>
+    <td class="tg-0pky"><a href="https://github.com/sarahadean/bark_n_brush_project" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">PassportPal</td>
+    <td class="tg-0pky">Your virtual passport! "Stamp" your passport<br>by marking different countries as "Visited".<br>Write a memory and add a photo from your trip. </td>
+    <td class="tg-0pky">- React<br>- React Router v6<br>- React-Bootstrap<br>- HTML + CSS</td>
+    <td class="tg-0pky">- Full CRUD functionality</td>
+    <td class="tg-0pky"><a href="https://github.com/sarahadean/PassportPal" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">OnlyPrince</td>
+    <td class="tg-0pky">Website dedicated to Prince. View album art<br>and make your own custom Prince playlist. </td>
+    <td class="tg-0pky">- Vanilla JavaScript<br>- HTML<br>- CSS</td>
+    <td class="tg-0pky">- Full CRUD functionality<br>- Custom API<br>- Rate individual songs<br>- Create custom playlist<br>- View front and back album art</td>
+    <td class="tg-0pky"><a href="https://github.com/sarahadean/Prince_Albums_Project" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
+  </tr>
+</tbody>
+</table>
 
 ### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)

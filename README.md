@@ -65,12 +65,12 @@
 ### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
 
-### 📊 **GitHub Stats**
+
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahadean&show_icons=true&theme=shadow_blue" alt="sarahadean" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=donut)](https://github.com/sarahadean/github-readme-stats) -->
 
-<h3 align="Left">Stats:</h3>
+<h3 align="Left">📊 Stats:</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sarahadean&theme=nightowl"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=nightowl" />

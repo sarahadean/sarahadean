@@ -32,7 +32,7 @@
     <td class="tg-0pky">Explore and search for trails in Utah. <br>View reviews for trains and add reviews for <br>trails you've hiked. </td>
     <td class="tg-0pky">- React<br>- Flask<br>- SQLAlchemy<br>- Python<br>- Material UI</td>
     <td class="tg-0pky">- User sign-in and profile<br>- View other User profiles<br>- Search for specific hiking <br>trails<br>- View and create reviews for <br>trails user has hiked</td>
-    <td class="tg-0pky"><a href="https://github.com/rachelsteiner91/HappyTrails" target="_blank" rel="noopener noreferrer">Repo</a></td>
+    <td class="tg-0pky"><a href="https://github.com/vcali02/Happy_Trails" target="_blank" rel="noopener noreferrer">Repo</a></td>
     <td class="tg-0pky">Demo <br>coming <br>soon!</td>
   </tr>
   <tr>

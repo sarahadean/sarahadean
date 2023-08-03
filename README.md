@@ -1,10 +1,14 @@
 <!-- ![White and Back Creative Marketing Agency Name Facebook Cover] -->
 <img src="https://github.com/sarahadean/sarahadean/assets/128323898/e8d58324-b531-4f1c-a192-d773b8d434fb"/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="http://linkedin.com/in/sarah-a-dean/"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="http://linkedin.com/in/sarah-a-dean/"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="http://medium.com/@sarah.schmidtdean"/>
+</div>
 
 
+### **Languages**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
 
 ### **Projects**
 
@@ -64,8 +68,6 @@
 </tbody>
 </table>
 
-### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
 
 
 

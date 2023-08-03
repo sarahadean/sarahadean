@@ -1,6 +1,7 @@
 <!-- ![White and Back Creative Marketing Agency Name Facebook Cover] -->
+<div align="center">
 <img src="https://github.com/sarahadean/sarahadean/assets/128323898/e8d58324-b531-4f1c-a192-d773b8d434fb" height="300"/>
-
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="http://linkedin.com/in/sarah-a-dean/"/>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="http://medium.com/@sarah.schmidtdean"/>

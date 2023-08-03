@@ -6,12 +6,13 @@
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="http://medium.com/@sarah.schmidtdean"/>
 </div>
 
-
+<div align="center">
 ### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode)](https://skillicons.dev)
-
-### **Projects**
-
+</div>
+<div align="center">
+  ### **Projects**
+</div>
 
 <table class="tg">
 <thead>
@@ -78,6 +79,8 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sarahadean&theme=nightowl"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=nightowl" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarahadean1212%2Fhit-counter" />
+  
 </div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahadean&theme=nightowl)

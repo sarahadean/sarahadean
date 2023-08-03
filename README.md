@@ -80,7 +80,8 @@
 <img src="https://streak-stats.demolab.com?user=sarahadean&theme=nightowl" height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=nightowl" height="200px"/>  
 </div>
-![](https://komarev.com/ghpvc/?username=sarahadean&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=sarahadean&color=blueviolet" />
+<!-- ![](https://komarev.com/ghpvc/?username=sarahadean&color=blueviolet) -->
 
 
 

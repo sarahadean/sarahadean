@@ -75,17 +75,12 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahadean&show_icons=true&theme=shadow_blue" alt="sarahadean" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=donut)](https://github.com/sarahadean/github-readme-stats) -->
 
-<h3 align="Left">📊 Github Stats </h3>
+<h3 align="center">📊 Github Stats </h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sarahadean&theme=nightowl" height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadean&layout=compact&theme=nightowl" height="200px"/>  
 </div>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarahadean1212%2Fhit-counter" />
+<img src="https://komarev.com/ghpvc/?sarahadean=your-github-username&color=blueviolet" align="center"/>
+![]()
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarahadean&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarahadean&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarahadean&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarahadean&theme=nightowl)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarahadean&theme=nightowl) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarahadean&theme=github_dark&utcOffset=8) -->
 

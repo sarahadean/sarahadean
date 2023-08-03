@@ -9,12 +9,11 @@
 </div>
 
 <div align="center">
-<!--   <h2>Languages</h2> -->
+<!--   <h>Languages</h2> -->
   <img src="https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode" />
 </div>
 
-  ### **Projects**
-
+<h3 align="center">Projects</h3>
 <table class="tg">
 <thead>
   <tr>

@@ -1,7 +1,8 @@
-<!-- ![White and Back Creative Marketing Agency Name Facebook Cover] -->
+
 <div align="center">
 <img src="https://github.com/sarahadean/sarahadean/assets/128323898/4ef67b26-a753-415c-b2e9-4a2218a0cd1c" height="270"/>
 </div>
+<br>
 
 
 <div align="center">

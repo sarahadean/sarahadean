@@ -31,7 +31,7 @@
 <tbody>
   <tr>
     <td class="tg-0pky">MamaMatch</td>
-    <td class="tg-0pky">Social media app for mothers to connect<br>with other mothers in their area. Request<br>to be friends, accept or deny requests and <br>chat with new friends. </td>
+    <td class="tg-0pky">Social media app catered to mothers. Create meaningful connections<br>with other mothers in their area. Request<br>to be friends, accept or deny requests and <br>chat with new friends. </td>
     <td class="tg-0pky">- React<br>- React Router v6<br>- Flask<br>- Flask RESTful<br>- Flask Login<br>- SQLAlchemy<br>- Python<br>- Material UI</td>
     <td class="tg-0pky">- Self-referential <br>many to many relationship<br>- User creates and<br>updates a profile<br>- Send and accept friend <br>requests<br>- Chat with friends<br>- Custom API</td>
     <td class="tg-0pky"><a href="https://github.com/sarahadean/capstone" target="_blank" rel="noopener noreferrer">Repo</a></td>

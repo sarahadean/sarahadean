@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="http://medium.com/@sarah.schmidtdean"/>
 <!--   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> -->
 </div>
-
+<br>
 <div align="center">
 <!--   <h>Languages</h2> -->
   <img src="https://skillicons.dev/icons?i=js,html,css,github,matlab,py,flask,react,vscode" />

@@ -53,7 +53,6 @@
     <td class="tg-0pky"><a href="https://github.com/sarahadean/bark_n_brush_project" target="_blank" rel="noopener noreferrer">Repo</a></td>
     <td class="tg-0pky">Demo <br>coming <br>soon!</td>
   </tr>
-  
  
 </tbody>
 </table>

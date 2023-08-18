@@ -53,22 +53,8 @@
     <td class="tg-0pky"><a href="https://github.com/sarahadean/bark_n_brush_project" target="_blank" rel="noopener noreferrer">Repo</a></td>
     <td class="tg-0pky">Demo <br>coming <br>soon!</td>
   </tr>
-  <tr>
-    <td class="tg-0pky">PassportPal</td>
-    <td class="tg-0pky">Your virtual passport! "Stamp" your passport<br>by marking different countries as "Visited".<br>Write a memory and add a photo from your trip. </td>
-    <td class="tg-0pky">- React<br>- React Router v6<br>- React-Bootstrap<br>- HTML + CSS</td>
-    <td class="tg-0pky">- Full CRUD functionality</td>
-    <td class="tg-0pky"><a href="https://github.com/sarahadean/PassportPal" target="_blank" rel="noopener noreferrer">Repo</a></td>
-    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">OnlyPrince</td>
-    <td class="tg-0pky">Website dedicated to Prince. View album art<br>and make your own custom Prince playlist. </td>
-    <td class="tg-0pky">- Vanilla JavaScript<br>- HTML<br>- CSS</td>
-    <td class="tg-0pky">- Full CRUD functionality<br>- Custom API<br>- Rate individual songs<br>- Create custom playlist<br>- View front and back album art</td>
-    <td class="tg-0pky"><a href="https://github.com/sarahadean/Prince_Albums_Project" target="_blank" rel="noopener noreferrer">Repo</a></td>
-    <td class="tg-0pky">Demo <br>coming <br>soon!</td>
-  </tr>
+  
+ 
 </tbody>
 </table>
 

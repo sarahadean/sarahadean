@@ -1,6 +1,7 @@
 
 <div align="center">
-  Hello! I'm Sarah Dean <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+  <h2>Hello! I'm Sarah Dean</h2> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+  <h3>I'm a Software Engineer</h3>
 <!-- <img src="https://github.com/sarahadean/sarahadean/assets/128323898/4ef67b26-a753-415c-b2e9-4a2218a0cd1c" height="270"/> -->
 </div>
 <br>

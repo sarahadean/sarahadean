@@ -3,6 +3,17 @@
   <h2>Hello! I'm Sarah Dean<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2> 
 <!-- <img src="https://github.com/sarahadean/sarahadean/assets/128323898/4ef67b26-a753-415c-b2e9-4a2218a0cd1c" height="270"/> -->
 </div>
+
+```python
+class SarahDean(self):
+    def _init_(self, title, about, education, techStack, home):
+        self.title = 'Software Engineer'
+        self.about = 'Ambitious, Motivated, Career-Change, Texan'
+        self.education = 'University of Texas at San Antonio, Flatiron School'
+        self.techStack = 'Python, Flask, JavaScript, React, SQL'
+        self.home = 'San Antonio, Texas'
+        self.dogNames = 'Chloe and Maggie'
+```
 <br>
 
 

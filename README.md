@@ -6,7 +6,7 @@
 
 ```python
 class SarahDean(self):
-    def _init_(self, title, about, education, techStack, home):
+    def _init_(self, title, about, education, techStack, home, dogNames):
         self.title = 'Software Engineer'
         self.about = 'Ambitious, Motivated, Career-Change, Texan'
         self.education = 'University of Texas at San Antonio, Flatiron School'
